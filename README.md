@@ -16,3 +16,4 @@ Sharing Room Check-in Page
 Food Order Page
 ![image](https://github.com/user-attachments/assets/1b80f52d-21f1-4b40-b39f-b9e9e3421e51)
 
+Link to PPT- https://docs.google.com/presentation/d/1ywL_MFY8Faemci_6fYVtcgf315eZNCQ9/edit?usp=sharing&ouid=111794857533137931164&rtpof=true&sd=true
